@@ -17,8 +17,6 @@
 - HTML
 - CSS
 - JavaScript
-- Software Testing
-
 ## Education
 
 B.Tech Information Technology
